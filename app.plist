@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ArupAus/T3056AR/releases/download/2019.02.28/Unity-iPhone.ipa</string>
+					<string>https://github.com/ArupAus/T3056AR/releases/download/2019.03.12/Unity-iPhone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://github.com/ArupAus/T3056AR/releases/download/2019.02.28/arup_real_icon_cloud.png</string>
+					<string>https://github.com/ArupAus/T3056AR/releases/download/2019.03.12/arup_real_icon_cloud.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://github.com/ArupAus/T3056AR/releases/download/2019.02.28/arup_real_icon_cloud.png</string>
+					<string>https://github.com/ArupAus/T3056AR/releases/download/2019.03.12/arup_real_icon_cloud.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
